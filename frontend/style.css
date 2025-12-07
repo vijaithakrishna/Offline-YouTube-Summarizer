@@ -1,0 +1,14 @@
+body {
+    font-family: Arial;
+    background: #f7f7f7;
+}
+
+.container {
+    width: 600px;
+    margin: auto;
+    margin-top: 60px;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #aaa;
+}

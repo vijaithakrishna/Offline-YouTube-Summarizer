@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+yt-dlp
+openai-whisper
+transformers
+torch
+sentencepiece
+numpy==1.26.4
+python-multipart
